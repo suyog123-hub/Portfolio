@@ -85,12 +85,3 @@ project/
 ```
 
 ---
-
----
-
-## 👨‍💻 Author
-
-Suyog Khadka  
-GitHub: https://github.com/your-username  
-
----
