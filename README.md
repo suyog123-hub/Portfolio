@@ -24,7 +24,6 @@ This is a web application built using Django and deployed on PythonAnywhere.
 - CSS3
 - Bootstrap
 - SQLite3  
-- PythonAnywhere (Deployment)
 
 ---
 
