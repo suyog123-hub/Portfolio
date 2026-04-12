@@ -12,7 +12,6 @@ This is a web application built using Django and deployed on PythonAnywhere.
 - Dynamic content rendering  
 - Backend powered by Django  
 - SQLite database (development)  
-- Deployed and accessible online  
 
 ---
 
